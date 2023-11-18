@@ -9,8 +9,8 @@ The Chanting Suite app is now available to download at:
 - https://play.google.com/store/apps/details?id=com.workleast.GoMoTungKinh (for Android)
 - https://apps.apple.com/us/app/chanting-suite/id1276069186 (for iOS)
 
-If you need any support, please contact me as follow:
+If you need any support, please contact me as follows:
 - Facebook: https://www.facebook.com/chantingsuite/
-- Blog: https://www.workleast.com
+- Blog: https://workleast.com
 
 Thank you and have a nice day!
