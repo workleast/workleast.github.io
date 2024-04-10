@@ -6,10 +6,10 @@ My family is Buddhist and my dad often took me to the temples. I was interested 
 
 The Chanting Suite app is now available to download at:
 
-- https://play.google.com/store/apps/details?id=com.workleast.GoMoTungKinh (for Android)
-- https://apps.apple.com/vn/app/chanting-suite/id1276069186 (for iOS)
+- Android: https://play.google.com/store/apps/details?id=com.workleast.GoMoTungKinh
+- iOS: https://apps.apple.com/app/id6483859400
 
-If you need any support, please contact me as follows:
+If you need any support, please contact me at:
 - Facebook: https://www.facebook.com/chantingsuite/
 - Blog: https://workleast.com
 - Email: info@workleast.com
